@@ -1,0 +1,11 @@
+{
+  "title": "Potato Guard AI",
+  "description": "Empowers farmers and researchers with AI-driven plant health analysis, disease detection, and data insights through secure, user-friendly dashboards and tools.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
